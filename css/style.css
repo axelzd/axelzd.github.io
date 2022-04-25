@@ -25,9 +25,9 @@ input[type="submit"] {
   height: 35px;
   color: #fff;
   background: mediumpurple;
-  font-size: 18px;
+  font-size: 25px;
   top: 30px;
-  left: 350px;
+  left: 250px;
   cursor: pointer;
 }
 
