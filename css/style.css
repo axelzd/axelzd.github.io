@@ -19,15 +19,15 @@ input[type="text"] {
 
 input[type="submit"] {
   display: block;
-  width: 100px;
+  width: 150px;
   border: 0;
   line-height: 35px;
   height: 35px;
   color: #fff;
   background: mediumpurple;
-  font-size: 25px;
+  font-size: 20px;
   top: 30px;
-  left: 250px;
+  left: 270px;
   cursor: pointer;
 }
 
